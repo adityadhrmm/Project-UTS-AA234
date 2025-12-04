@@ -3,11 +3,11 @@ Tema Project: CoffeShop
 ____________________________________________
 Nama Anggota Kelompok:
 
-I Kadek Aditya Dharma Mahendra 230040170
+I Kadek Aditya Dharma Mahendra (230040170)
 
-I Komang Putra Pranayoga 230040173 
+I Komang Putra Pranayoga (230040173) 
 
-Christovan Hosyan Ananta Putra 230040165
+Christovan Hosyan Ananta Putra (230040165)
 
 ____________________________________________
 Link source code project: 
