@@ -10,12 +10,14 @@ I Komang Putra Pranayoga 230040173
 Christovan Hosyan Ananta Putra 230040165
 
 ____________________________________________
-Link source code project:
+Link source code project: 
+https://github.com/adityadhrmm/Project-UTS-AA234
 
-
+____________________________________________
 Link Vidio Youtube:
 https://youtu.be/JndG7meYd6Y?si=c1Qif68Z3uWz3fhV
 
+____________________________________________
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
